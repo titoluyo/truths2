@@ -15,4 +15,4 @@
 #   limitations under the License.
 #
 
-from truths.truths import Truths
+from truths import *
